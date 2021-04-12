@@ -1,5 +1,5 @@
-import sectionimage1 from '../../assets/rolls.jpg';
-import sectionimage2 from '../../assets/color.jpg'
+import sectionimage1 from '../../../assets/rolls.jpg';
+import sectionimage2 from '../../../assets/color.jpg'
 import '../section/section.css'
 function section() {
     return (

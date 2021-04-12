@@ -1,15 +1,13 @@
+// import Header from "./Class1/components/header/Header";
+// import Section from "./Class1/components/section/section";
+// import Footer from "./Class1/components/footer/footer";
+import Parent from './Class2/components/parent'
 
-import Header from "./components/header/Header";
-import Section from "./components/section/section";
-import Footer from "./components/footer/footer";
-var test = "some Data";
 function App() {
   return (
     <div>
-      <Header/>
-      <Section/>
-      <Footer/>
-      <p>{test}</p>
+    <Parent/>
+      
     </div>
   );
 }
